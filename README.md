@@ -22,4 +22,9 @@
 | Krzysztof Zabłocki | https://github.com/krzysztofzablocki  |
 | Matt   | https://github.com/NSHipster  |
 | Marcin Krzyzanowski   | https://github.com/krzyzanowskim  |
-
+| Daniele Margutti   | https://github.com/malcommac  |
+| Kevin Lundberg   | https://github.com/klundberg  |
+| Dave Delong  | https://github.com/davedelong |
+| Yonas Kolb  | https://github.com/yonaskolb |
+| Antoine van der Lee  | https://github.com/AvdLee |
+| Vincent Pradeilles  | https://github.com/vincent-pradeilles |
