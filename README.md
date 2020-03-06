@@ -9,6 +9,8 @@
 | Pinterest  | https://github.com/pinterest  |
 | Spotify  | https://github.com/spotify  |
 | Uber  | https://github.com/uber |
+| Square  | https://github.com/square |
+| lyft  | https://github.com/lyft |
 
 
 ## Repositories by Developers
