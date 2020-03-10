@@ -30,3 +30,5 @@
 | Yonas Kolb  | https://github.com/yonaskolb |
 | Antoine van der Lee  | https://github.com/AvdLee |
 | Vincent Pradeilles  | https://github.com/vincent-pradeilles |
+| Majid Jabrayilov  | https://github.com/mecid |
+| Guilherme Rambo  | https://github.com/insidegui |
